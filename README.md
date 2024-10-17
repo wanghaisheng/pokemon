@@ -1,4 +1,6 @@
-# Pokémon
+# Pokémon database
+
+
 
 A Next.js 13 application built using the new router, server components and server actions, as well as [NextAuth.js](https://github.com/nextauthjs/next-auth), [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) and [Turso](https://turso.tech/) in an [Nx monorepo](https://github.com/nrwl/nx)
 
